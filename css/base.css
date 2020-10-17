@@ -1,0 +1,28 @@
+html body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(230, 230, 230);
+}
+
+.row {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color: gray;
+    
+}
+
+#maincolumn{
+    width: 50%;
+    background-color: white;
+}
+
+p {
+    padding: 10px;
+}
